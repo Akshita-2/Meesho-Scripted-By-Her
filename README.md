@@ -4,7 +4,8 @@
 
 Janani Aarogya is a voice-first, GenAI-powered health companion that enables Indian mothers—especially those with low digital literacy—to access personalized care, cultural guidance, and emotional support in their own language through smart voice conversations, auto-generated health responses, transliteration, memory journaling, and stage-based insights.
 
-[🚀  Check it live](https://janani-aarogya-project.vercel.app)
+🌐 **Live Demo**: [https://janani-aarogya-project.vercel.app](https://janani-aarogya-project.vercel.app/)
+
 ## Features
 
 - 🎤 Voice-first AI assistant for Indian mothers
